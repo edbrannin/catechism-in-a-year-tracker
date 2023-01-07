@@ -18,6 +18,7 @@ import { fileURLToPath } from 'url';
 
 /**
  * @type ResultPlanDay
+ * @property {number} day
  * @property {string} partName
  * @property {string} partColor
  * @property {number} partNumber
@@ -28,7 +29,6 @@ import { fileURLToPath } from 'url';
  * @property {boolean} isNewPart
  * @property {boolean} isNewSection
  * @property {boolean} isNewChapter
- * @property {string} day
  * @property {number} paragraphStart
  * @property {number} paragraphEnd
  * @property {string?} alsoRead
@@ -85,7 +85,7 @@ export const convertPlanDays = (planDays) => {
     }
 
     result.push({
-      day: inputDay['Day'],
+      day: Number(inputDay['Day']),
       partName: lastPartName,
       partColor: lastPartColor,
       partNumber: lastPartNumber,

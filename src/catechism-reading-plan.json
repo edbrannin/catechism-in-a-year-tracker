@@ -1,6 +1,6 @@
 [
   {
-    "day": "1",
+    "day": 1,
     "partName": "Prologue",
     "partColor": "Dark Teal",
     "partNumber": 0,
@@ -16,7 +16,7 @@
     "alsoRead": ""
   },
   {
-    "day": "2",
+    "day": 2,
     "partName": "Prologue",
     "partColor": "Dark Teal",
     "partNumber": 0,
@@ -32,7 +32,7 @@
     "alsoRead": ""
   },
   {
-    "day": "3",
+    "day": 3,
     "partName": "Introduction to Part 1",
     "partColor": "Teal",
     "partNumber": 1,
@@ -48,7 +48,7 @@
     "alsoRead": ""
   },
   {
-    "day": "4",
+    "day": 4,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -64,7 +64,7 @@
     "alsoRead": ""
   },
   {
-    "day": "5",
+    "day": 5,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -80,7 +80,7 @@
     "alsoRead": ""
   },
   {
-    "day": "6",
+    "day": 6,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -96,7 +96,7 @@
     "alsoRead": ""
   },
   {
-    "day": "7",
+    "day": 7,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -112,7 +112,7 @@
     "alsoRead": ""
   },
   {
-    "day": "8",
+    "day": 8,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -128,7 +128,7 @@
     "alsoRead": ""
   },
   {
-    "day": "9",
+    "day": 9,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -144,7 +144,7 @@
     "alsoRead": ""
   },
   {
-    "day": "10",
+    "day": 10,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -160,7 +160,7 @@
     "alsoRead": ""
   },
   {
-    "day": "11",
+    "day": 11,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -176,7 +176,7 @@
     "alsoRead": ""
   },
   {
-    "day": "12",
+    "day": 12,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -192,7 +192,7 @@
     "alsoRead": ""
   },
   {
-    "day": "13",
+    "day": 13,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -208,7 +208,7 @@
     "alsoRead": ""
   },
   {
-    "day": "14",
+    "day": 14,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -224,7 +224,7 @@
     "alsoRead": ""
   },
   {
-    "day": "15",
+    "day": 15,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -240,7 +240,7 @@
     "alsoRead": ""
   },
   {
-    "day": "16",
+    "day": 16,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -256,7 +256,7 @@
     "alsoRead": ""
   },
   {
-    "day": "17",
+    "day": 17,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -272,7 +272,7 @@
     "alsoRead": ""
   },
   {
-    "day": "18",
+    "day": 18,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -288,7 +288,7 @@
     "alsoRead": ""
   },
   {
-    "day": "19",
+    "day": 19,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -304,7 +304,7 @@
     "alsoRead": ""
   },
   {
-    "day": "20",
+    "day": 20,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -320,7 +320,7 @@
     "alsoRead": ""
   },
   {
-    "day": "21",
+    "day": 21,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -336,7 +336,7 @@
     "alsoRead": ""
   },
   {
-    "day": "22",
+    "day": 22,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -352,7 +352,7 @@
     "alsoRead": ""
   },
   {
-    "day": "23",
+    "day": 23,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -368,7 +368,7 @@
     "alsoRead": ""
   },
   {
-    "day": "24",
+    "day": 24,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -384,7 +384,7 @@
     "alsoRead": ""
   },
   {
-    "day": "25",
+    "day": 25,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -400,7 +400,7 @@
     "alsoRead": ""
   },
   {
-    "day": "26",
+    "day": 26,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -416,7 +416,7 @@
     "alsoRead": "The Credo"
   },
   {
-    "day": "27",
+    "day": 27,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -432,7 +432,7 @@
     "alsoRead": ""
   },
   {
-    "day": "28",
+    "day": 28,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -448,7 +448,7 @@
     "alsoRead": ""
   },
   {
-    "day": "29",
+    "day": 29,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -464,7 +464,7 @@
     "alsoRead": ""
   },
   {
-    "day": "30",
+    "day": 30,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -480,7 +480,7 @@
     "alsoRead": ""
   },
   {
-    "day": "31",
+    "day": 31,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -496,7 +496,7 @@
     "alsoRead": ""
   },
   {
-    "day": "32",
+    "day": 32,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -512,7 +512,7 @@
     "alsoRead": ""
   },
   {
-    "day": "33",
+    "day": 33,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -528,7 +528,7 @@
     "alsoRead": ""
   },
   {
-    "day": "34",
+    "day": 34,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -544,7 +544,7 @@
     "alsoRead": ""
   },
   {
-    "day": "35",
+    "day": 35,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -560,7 +560,7 @@
     "alsoRead": ""
   },
   {
-    "day": "36",
+    "day": 36,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -576,7 +576,7 @@
     "alsoRead": ""
   },
   {
-    "day": "37",
+    "day": 37,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -592,7 +592,7 @@
     "alsoRead": ""
   },
   {
-    "day": "38",
+    "day": 38,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -608,7 +608,7 @@
     "alsoRead": ""
   },
   {
-    "day": "39",
+    "day": 39,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -624,7 +624,7 @@
     "alsoRead": ""
   },
   {
-    "day": "40",
+    "day": 40,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -640,7 +640,7 @@
     "alsoRead": ""
   },
   {
-    "day": "41",
+    "day": 41,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -656,7 +656,7 @@
     "alsoRead": ""
   },
   {
-    "day": "42",
+    "day": 42,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -672,7 +672,7 @@
     "alsoRead": ""
   },
   {
-    "day": "43",
+    "day": 43,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -688,7 +688,7 @@
     "alsoRead": ""
   },
   {
-    "day": "44",
+    "day": 44,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -704,7 +704,7 @@
     "alsoRead": ""
   },
   {
-    "day": "45",
+    "day": 45,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -720,7 +720,7 @@
     "alsoRead": ""
   },
   {
-    "day": "46",
+    "day": 46,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -736,7 +736,7 @@
     "alsoRead": ""
   },
   {
-    "day": "47",
+    "day": 47,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -752,7 +752,7 @@
     "alsoRead": ""
   },
   {
-    "day": "48",
+    "day": 48,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -768,7 +768,7 @@
     "alsoRead": ""
   },
   {
-    "day": "49",
+    "day": 49,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -784,7 +784,7 @@
     "alsoRead": ""
   },
   {
-    "day": "50",
+    "day": 50,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -800,7 +800,7 @@
     "alsoRead": ""
   },
   {
-    "day": "51",
+    "day": 51,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -816,7 +816,7 @@
     "alsoRead": ""
   },
   {
-    "day": "52",
+    "day": 52,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -832,7 +832,7 @@
     "alsoRead": ""
   },
   {
-    "day": "53",
+    "day": 53,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -848,7 +848,7 @@
     "alsoRead": ""
   },
   {
-    "day": "54",
+    "day": 54,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -864,7 +864,7 @@
     "alsoRead": ""
   },
   {
-    "day": "55",
+    "day": 55,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -880,7 +880,7 @@
     "alsoRead": ""
   },
   {
-    "day": "56",
+    "day": 56,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -896,7 +896,7 @@
     "alsoRead": ""
   },
   {
-    "day": "57",
+    "day": 57,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -912,7 +912,7 @@
     "alsoRead": ""
   },
   {
-    "day": "58",
+    "day": 58,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -928,7 +928,7 @@
     "alsoRead": ""
   },
   {
-    "day": "59",
+    "day": 59,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -944,7 +944,7 @@
     "alsoRead": ""
   },
   {
-    "day": "60",
+    "day": 60,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -960,7 +960,7 @@
     "alsoRead": ""
   },
   {
-    "day": "61",
+    "day": 61,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -976,7 +976,7 @@
     "alsoRead": ""
   },
   {
-    "day": "62",
+    "day": 62,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -992,7 +992,7 @@
     "alsoRead": ""
   },
   {
-    "day": "63",
+    "day": 63,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1008,7 +1008,7 @@
     "alsoRead": ""
   },
   {
-    "day": "64",
+    "day": 64,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1024,7 +1024,7 @@
     "alsoRead": ""
   },
   {
-    "day": "65",
+    "day": 65,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1040,7 +1040,7 @@
     "alsoRead": ""
   },
   {
-    "day": "66",
+    "day": 66,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1056,7 +1056,7 @@
     "alsoRead": ""
   },
   {
-    "day": "67",
+    "day": 67,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1072,7 +1072,7 @@
     "alsoRead": ""
   },
   {
-    "day": "68",
+    "day": 68,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1088,7 +1088,7 @@
     "alsoRead": ""
   },
   {
-    "day": "69",
+    "day": 69,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1104,7 +1104,7 @@
     "alsoRead": ""
   },
   {
-    "day": "70",
+    "day": 70,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1120,7 +1120,7 @@
     "alsoRead": ""
   },
   {
-    "day": "71",
+    "day": 71,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1136,7 +1136,7 @@
     "alsoRead": ""
   },
   {
-    "day": "72",
+    "day": 72,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1152,7 +1152,7 @@
     "alsoRead": ""
   },
   {
-    "day": "73",
+    "day": 73,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1168,7 +1168,7 @@
     "alsoRead": ""
   },
   {
-    "day": "74",
+    "day": 74,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1184,7 +1184,7 @@
     "alsoRead": ""
   },
   {
-    "day": "75",
+    "day": 75,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1200,7 +1200,7 @@
     "alsoRead": ""
   },
   {
-    "day": "76",
+    "day": 76,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1216,7 +1216,7 @@
     "alsoRead": ""
   },
   {
-    "day": "77",
+    "day": 77,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1232,7 +1232,7 @@
     "alsoRead": ""
   },
   {
-    "day": "78",
+    "day": 78,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1248,7 +1248,7 @@
     "alsoRead": ""
   },
   {
-    "day": "79",
+    "day": 79,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1264,7 +1264,7 @@
     "alsoRead": ""
   },
   {
-    "day": "80",
+    "day": 80,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1280,7 +1280,7 @@
     "alsoRead": ""
   },
   {
-    "day": "81",
+    "day": 81,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1296,7 +1296,7 @@
     "alsoRead": ""
   },
   {
-    "day": "82",
+    "day": 82,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1312,7 +1312,7 @@
     "alsoRead": ""
   },
   {
-    "day": "83",
+    "day": 83,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1328,7 +1328,7 @@
     "alsoRead": ""
   },
   {
-    "day": "84",
+    "day": 84,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1344,7 +1344,7 @@
     "alsoRead": ""
   },
   {
-    "day": "85",
+    "day": 85,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1360,7 +1360,7 @@
     "alsoRead": ""
   },
   {
-    "day": "86",
+    "day": 86,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1376,7 +1376,7 @@
     "alsoRead": ""
   },
   {
-    "day": "87",
+    "day": 87,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1392,7 +1392,7 @@
     "alsoRead": ""
   },
   {
-    "day": "88",
+    "day": 88,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1408,7 +1408,7 @@
     "alsoRead": ""
   },
   {
-    "day": "89",
+    "day": 89,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1424,7 +1424,7 @@
     "alsoRead": ""
   },
   {
-    "day": "90",
+    "day": 90,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1440,7 +1440,7 @@
     "alsoRead": ""
   },
   {
-    "day": "91",
+    "day": 91,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1456,7 +1456,7 @@
     "alsoRead": ""
   },
   {
-    "day": "92",
+    "day": 92,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1472,7 +1472,7 @@
     "alsoRead": ""
   },
   {
-    "day": "93",
+    "day": 93,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1488,7 +1488,7 @@
     "alsoRead": ""
   },
   {
-    "day": "94",
+    "day": 94,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1504,7 +1504,7 @@
     "alsoRead": ""
   },
   {
-    "day": "95",
+    "day": 95,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1520,7 +1520,7 @@
     "alsoRead": ""
   },
   {
-    "day": "96",
+    "day": 96,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1536,7 +1536,7 @@
     "alsoRead": ""
   },
   {
-    "day": "97",
+    "day": 97,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1552,7 +1552,7 @@
     "alsoRead": ""
   },
   {
-    "day": "98",
+    "day": 98,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1568,7 +1568,7 @@
     "alsoRead": ""
   },
   {
-    "day": "99",
+    "day": 99,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1584,7 +1584,7 @@
     "alsoRead": ""
   },
   {
-    "day": "100",
+    "day": 100,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1600,7 +1600,7 @@
     "alsoRead": ""
   },
   {
-    "day": "101",
+    "day": 101,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1616,7 +1616,7 @@
     "alsoRead": ""
   },
   {
-    "day": "102",
+    "day": 102,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1632,7 +1632,7 @@
     "alsoRead": ""
   },
   {
-    "day": "103",
+    "day": 103,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1648,7 +1648,7 @@
     "alsoRead": ""
   },
   {
-    "day": "104",
+    "day": 104,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1664,7 +1664,7 @@
     "alsoRead": ""
   },
   {
-    "day": "105",
+    "day": 105,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1680,7 +1680,7 @@
     "alsoRead": ""
   },
   {
-    "day": "106",
+    "day": 106,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1696,7 +1696,7 @@
     "alsoRead": ""
   },
   {
-    "day": "107",
+    "day": 107,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1712,7 +1712,7 @@
     "alsoRead": ""
   },
   {
-    "day": "108",
+    "day": 108,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1728,7 +1728,7 @@
     "alsoRead": ""
   },
   {
-    "day": "109",
+    "day": 109,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1744,7 +1744,7 @@
     "alsoRead": ""
   },
   {
-    "day": "110",
+    "day": 110,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1760,7 +1760,7 @@
     "alsoRead": ""
   },
   {
-    "day": "111",
+    "day": 111,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1776,7 +1776,7 @@
     "alsoRead": ""
   },
   {
-    "day": "112",
+    "day": 112,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1792,7 +1792,7 @@
     "alsoRead": ""
   },
   {
-    "day": "113",
+    "day": 113,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1808,7 +1808,7 @@
     "alsoRead": ""
   },
   {
-    "day": "114",
+    "day": 114,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1824,7 +1824,7 @@
     "alsoRead": ""
   },
   {
-    "day": "115",
+    "day": 115,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1840,7 +1840,7 @@
     "alsoRead": ""
   },
   {
-    "day": "116",
+    "day": 116,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1856,7 +1856,7 @@
     "alsoRead": ""
   },
   {
-    "day": "117",
+    "day": 117,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1872,7 +1872,7 @@
     "alsoRead": ""
   },
   {
-    "day": "118",
+    "day": 118,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1888,7 +1888,7 @@
     "alsoRead": ""
   },
   {
-    "day": "119",
+    "day": 119,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1904,7 +1904,7 @@
     "alsoRead": ""
   },
   {
-    "day": "120",
+    "day": 120,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1920,7 +1920,7 @@
     "alsoRead": ""
   },
   {
-    "day": "121",
+    "day": 121,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1936,7 +1936,7 @@
     "alsoRead": ""
   },
   {
-    "day": "122",
+    "day": 122,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1952,7 +1952,7 @@
     "alsoRead": ""
   },
   {
-    "day": "123",
+    "day": 123,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1968,7 +1968,7 @@
     "alsoRead": ""
   },
   {
-    "day": "124",
+    "day": 124,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -1984,7 +1984,7 @@
     "alsoRead": ""
   },
   {
-    "day": "125",
+    "day": 125,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2000,7 +2000,7 @@
     "alsoRead": ""
   },
   {
-    "day": "126",
+    "day": 126,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2016,7 +2016,7 @@
     "alsoRead": ""
   },
   {
-    "day": "127",
+    "day": 127,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2032,7 +2032,7 @@
     "alsoRead": ""
   },
   {
-    "day": "128",
+    "day": 128,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2048,7 +2048,7 @@
     "alsoRead": ""
   },
   {
-    "day": "129",
+    "day": 129,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2064,7 +2064,7 @@
     "alsoRead": ""
   },
   {
-    "day": "130",
+    "day": 130,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2080,7 +2080,7 @@
     "alsoRead": ""
   },
   {
-    "day": "131",
+    "day": 131,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2096,7 +2096,7 @@
     "alsoRead": ""
   },
   {
-    "day": "132",
+    "day": 132,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2112,7 +2112,7 @@
     "alsoRead": ""
   },
   {
-    "day": "133",
+    "day": 133,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2128,7 +2128,7 @@
     "alsoRead": ""
   },
   {
-    "day": "134",
+    "day": 134,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2144,7 +2144,7 @@
     "alsoRead": ""
   },
   {
-    "day": "135",
+    "day": 135,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2160,7 +2160,7 @@
     "alsoRead": ""
   },
   {
-    "day": "136",
+    "day": 136,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2176,7 +2176,7 @@
     "alsoRead": ""
   },
   {
-    "day": "137",
+    "day": 137,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2192,7 +2192,7 @@
     "alsoRead": ""
   },
   {
-    "day": "138",
+    "day": 138,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2208,7 +2208,7 @@
     "alsoRead": ""
   },
   {
-    "day": "139",
+    "day": 139,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2224,7 +2224,7 @@
     "alsoRead": ""
   },
   {
-    "day": "140",
+    "day": 140,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2240,7 +2240,7 @@
     "alsoRead": ""
   },
   {
-    "day": "141",
+    "day": 141,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2256,7 +2256,7 @@
     "alsoRead": ""
   },
   {
-    "day": "142",
+    "day": 142,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2272,7 +2272,7 @@
     "alsoRead": ""
   },
   {
-    "day": "143",
+    "day": 143,
     "partName": "What We Believe",
     "partColor": "Teal",
     "partNumber": 1,
@@ -2288,7 +2288,7 @@
     "alsoRead": ""
   },
   {
-    "day": "144",
+    "day": 144,
     "partName": "Introduction to Part 2",
     "partColor": "Red",
     "partNumber": 2,
@@ -2304,7 +2304,7 @@
     "alsoRead": ""
   },
   {
-    "day": "145",
+    "day": 145,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2320,7 +2320,7 @@
     "alsoRead": ""
   },
   {
-    "day": "146",
+    "day": 146,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2336,7 +2336,7 @@
     "alsoRead": ""
   },
   {
-    "day": "147",
+    "day": 147,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2352,7 +2352,7 @@
     "alsoRead": ""
   },
   {
-    "day": "148",
+    "day": 148,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2368,7 +2368,7 @@
     "alsoRead": ""
   },
   {
-    "day": "149",
+    "day": 149,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2384,7 +2384,7 @@
     "alsoRead": ""
   },
   {
-    "day": "150",
+    "day": 150,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2400,7 +2400,7 @@
     "alsoRead": ""
   },
   {
-    "day": "151",
+    "day": 151,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2416,7 +2416,7 @@
     "alsoRead": ""
   },
   {
-    "day": "152",
+    "day": 152,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2432,7 +2432,7 @@
     "alsoRead": ""
   },
   {
-    "day": "153",
+    "day": 153,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2448,7 +2448,7 @@
     "alsoRead": ""
   },
   {
-    "day": "154",
+    "day": 154,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2464,7 +2464,7 @@
     "alsoRead": ""
   },
   {
-    "day": "155",
+    "day": 155,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2480,7 +2480,7 @@
     "alsoRead": ""
   },
   {
-    "day": "156",
+    "day": 156,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2496,7 +2496,7 @@
     "alsoRead": ""
   },
   {
-    "day": "157",
+    "day": 157,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2512,7 +2512,7 @@
     "alsoRead": ""
   },
   {
-    "day": "158",
+    "day": 158,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2528,7 +2528,7 @@
     "alsoRead": ""
   },
   {
-    "day": "159",
+    "day": 159,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2544,7 +2544,7 @@
     "alsoRead": ""
   },
   {
-    "day": "160",
+    "day": 160,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2560,7 +2560,7 @@
     "alsoRead": ""
   },
   {
-    "day": "161",
+    "day": 161,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2576,7 +2576,7 @@
     "alsoRead": ""
   },
   {
-    "day": "162",
+    "day": 162,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2592,7 +2592,7 @@
     "alsoRead": ""
   },
   {
-    "day": "163",
+    "day": 163,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2608,7 +2608,7 @@
     "alsoRead": ""
   },
   {
-    "day": "164",
+    "day": 164,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2624,7 +2624,7 @@
     "alsoRead": ""
   },
   {
-    "day": "165",
+    "day": 165,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2640,7 +2640,7 @@
     "alsoRead": ""
   },
   {
-    "day": "166",
+    "day": 166,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2656,7 +2656,7 @@
     "alsoRead": ""
   },
   {
-    "day": "167",
+    "day": 167,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2672,7 +2672,7 @@
     "alsoRead": ""
   },
   {
-    "day": "168",
+    "day": 168,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2688,7 +2688,7 @@
     "alsoRead": ""
   },
   {
-    "day": "169",
+    "day": 169,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2704,7 +2704,7 @@
     "alsoRead": ""
   },
   {
-    "day": "170",
+    "day": 170,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2720,7 +2720,7 @@
     "alsoRead": ""
   },
   {
-    "day": "171",
+    "day": 171,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2736,7 +2736,7 @@
     "alsoRead": ""
   },
   {
-    "day": "172",
+    "day": 172,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2752,7 +2752,7 @@
     "alsoRead": ""
   },
   {
-    "day": "173",
+    "day": 173,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2768,7 +2768,7 @@
     "alsoRead": ""
   },
   {
-    "day": "174",
+    "day": 174,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2784,7 +2784,7 @@
     "alsoRead": ""
   },
   {
-    "day": "175",
+    "day": 175,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2800,7 +2800,7 @@
     "alsoRead": ""
   },
   {
-    "day": "176",
+    "day": 176,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2816,7 +2816,7 @@
     "alsoRead": ""
   },
   {
-    "day": "177",
+    "day": 177,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2832,7 +2832,7 @@
     "alsoRead": ""
   },
   {
-    "day": "178",
+    "day": 178,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2848,7 +2848,7 @@
     "alsoRead": ""
   },
   {
-    "day": "179",
+    "day": 179,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2864,7 +2864,7 @@
     "alsoRead": ""
   },
   {
-    "day": "180",
+    "day": 180,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2880,7 +2880,7 @@
     "alsoRead": ""
   },
   {
-    "day": "181",
+    "day": 181,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2896,7 +2896,7 @@
     "alsoRead": ""
   },
   {
-    "day": "182",
+    "day": 182,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2912,7 +2912,7 @@
     "alsoRead": ""
   },
   {
-    "day": "183",
+    "day": 183,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2928,7 +2928,7 @@
     "alsoRead": ""
   },
   {
-    "day": "184",
+    "day": 184,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2944,7 +2944,7 @@
     "alsoRead": ""
   },
   {
-    "day": "185",
+    "day": 185,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2960,7 +2960,7 @@
     "alsoRead": ""
   },
   {
-    "day": "186",
+    "day": 186,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2976,7 +2976,7 @@
     "alsoRead": ""
   },
   {
-    "day": "187",
+    "day": 187,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -2992,7 +2992,7 @@
     "alsoRead": ""
   },
   {
-    "day": "188",
+    "day": 188,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3008,7 +3008,7 @@
     "alsoRead": ""
   },
   {
-    "day": "189",
+    "day": 189,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3024,7 +3024,7 @@
     "alsoRead": ""
   },
   {
-    "day": "190",
+    "day": 190,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3040,7 +3040,7 @@
     "alsoRead": ""
   },
   {
-    "day": "191",
+    "day": 191,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3056,7 +3056,7 @@
     "alsoRead": ""
   },
   {
-    "day": "192",
+    "day": 192,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3072,7 +3072,7 @@
     "alsoRead": ""
   },
   {
-    "day": "193",
+    "day": 193,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3088,7 +3088,7 @@
     "alsoRead": ""
   },
   {
-    "day": "194",
+    "day": 194,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3104,7 +3104,7 @@
     "alsoRead": ""
   },
   {
-    "day": "195",
+    "day": 195,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3120,7 +3120,7 @@
     "alsoRead": ""
   },
   {
-    "day": "196",
+    "day": 196,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3136,7 +3136,7 @@
     "alsoRead": ""
   },
   {
-    "day": "197",
+    "day": 197,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3152,7 +3152,7 @@
     "alsoRead": ""
   },
   {
-    "day": "198",
+    "day": 198,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3168,7 +3168,7 @@
     "alsoRead": ""
   },
   {
-    "day": "199",
+    "day": 199,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3184,7 +3184,7 @@
     "alsoRead": ""
   },
   {
-    "day": "200",
+    "day": 200,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3200,7 +3200,7 @@
     "alsoRead": ""
   },
   {
-    "day": "201",
+    "day": 201,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3216,7 +3216,7 @@
     "alsoRead": ""
   },
   {
-    "day": "202",
+    "day": 202,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3232,7 +3232,7 @@
     "alsoRead": ""
   },
   {
-    "day": "203",
+    "day": 203,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3248,7 +3248,7 @@
     "alsoRead": ""
   },
   {
-    "day": "204",
+    "day": 204,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3264,7 +3264,7 @@
     "alsoRead": ""
   },
   {
-    "day": "205",
+    "day": 205,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3280,7 +3280,7 @@
     "alsoRead": ""
   },
   {
-    "day": "206",
+    "day": 206,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3296,7 +3296,7 @@
     "alsoRead": ""
   },
   {
-    "day": "207",
+    "day": 207,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3312,7 +3312,7 @@
     "alsoRead": ""
   },
   {
-    "day": "208",
+    "day": 208,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3328,7 +3328,7 @@
     "alsoRead": ""
   },
   {
-    "day": "209",
+    "day": 209,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3344,7 +3344,7 @@
     "alsoRead": ""
   },
   {
-    "day": "210",
+    "day": 210,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3360,7 +3360,7 @@
     "alsoRead": ""
   },
   {
-    "day": "211",
+    "day": 211,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3376,7 +3376,7 @@
     "alsoRead": ""
   },
   {
-    "day": "212",
+    "day": 212,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3392,7 +3392,7 @@
     "alsoRead": ""
   },
   {
-    "day": "213",
+    "day": 213,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3408,7 +3408,7 @@
     "alsoRead": ""
   },
   {
-    "day": "214",
+    "day": 214,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3424,7 +3424,7 @@
     "alsoRead": ""
   },
   {
-    "day": "215",
+    "day": 215,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3440,7 +3440,7 @@
     "alsoRead": ""
   },
   {
-    "day": "216",
+    "day": 216,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3456,7 +3456,7 @@
     "alsoRead": ""
   },
   {
-    "day": "217",
+    "day": 217,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3472,7 +3472,7 @@
     "alsoRead": ""
   },
   {
-    "day": "218",
+    "day": 218,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3488,7 +3488,7 @@
     "alsoRead": ""
   },
   {
-    "day": "219",
+    "day": 219,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3504,7 +3504,7 @@
     "alsoRead": ""
   },
   {
-    "day": "220",
+    "day": 220,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3520,7 +3520,7 @@
     "alsoRead": ""
   },
   {
-    "day": "221",
+    "day": 221,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3536,7 +3536,7 @@
     "alsoRead": ""
   },
   {
-    "day": "222",
+    "day": 222,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3552,7 +3552,7 @@
     "alsoRead": ""
   },
   {
-    "day": "223",
+    "day": 223,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3568,7 +3568,7 @@
     "alsoRead": ""
   },
   {
-    "day": "224",
+    "day": 224,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3584,7 +3584,7 @@
     "alsoRead": ""
   },
   {
-    "day": "225",
+    "day": 225,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3600,7 +3600,7 @@
     "alsoRead": ""
   },
   {
-    "day": "226",
+    "day": 226,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3616,7 +3616,7 @@
     "alsoRead": ""
   },
   {
-    "day": "227",
+    "day": 227,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3632,7 +3632,7 @@
     "alsoRead": ""
   },
   {
-    "day": "228",
+    "day": 228,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3648,7 +3648,7 @@
     "alsoRead": ""
   },
   {
-    "day": "229",
+    "day": 229,
     "partName": "How We Worship",
     "partColor": "Red",
     "partNumber": 2,
@@ -3664,7 +3664,7 @@
     "alsoRead": ""
   },
   {
-    "day": "230",
+    "day": 230,
     "partName": "Introduction to Part 3",
     "partColor": "Green",
     "partNumber": 3,
@@ -3680,7 +3680,7 @@
     "alsoRead": ""
   },
   {
-    "day": "231",
+    "day": 231,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3696,7 +3696,7 @@
     "alsoRead": ""
   },
   {
-    "day": "232",
+    "day": 232,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3712,7 +3712,7 @@
     "alsoRead": ""
   },
   {
-    "day": "233",
+    "day": 233,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3728,7 +3728,7 @@
     "alsoRead": ""
   },
   {
-    "day": "234",
+    "day": 234,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3744,7 +3744,7 @@
     "alsoRead": ""
   },
   {
-    "day": "235",
+    "day": 235,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3760,7 +3760,7 @@
     "alsoRead": ""
   },
   {
-    "day": "236",
+    "day": 236,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3776,7 +3776,7 @@
     "alsoRead": ""
   },
   {
-    "day": "237",
+    "day": 237,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3792,7 +3792,7 @@
     "alsoRead": ""
   },
   {
-    "day": "238",
+    "day": 238,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3808,7 +3808,7 @@
     "alsoRead": ""
   },
   {
-    "day": "239",
+    "day": 239,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3824,7 +3824,7 @@
     "alsoRead": ""
   },
   {
-    "day": "240",
+    "day": 240,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3840,7 +3840,7 @@
     "alsoRead": ""
   },
   {
-    "day": "241",
+    "day": 241,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3856,7 +3856,7 @@
     "alsoRead": ""
   },
   {
-    "day": "242",
+    "day": 242,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3872,7 +3872,7 @@
     "alsoRead": ""
   },
   {
-    "day": "243",
+    "day": 243,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3888,7 +3888,7 @@
     "alsoRead": ""
   },
   {
-    "day": "244",
+    "day": 244,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3904,7 +3904,7 @@
     "alsoRead": ""
   },
   {
-    "day": "245",
+    "day": 245,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3920,7 +3920,7 @@
     "alsoRead": ""
   },
   {
-    "day": "246",
+    "day": 246,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3936,7 +3936,7 @@
     "alsoRead": ""
   },
   {
-    "day": "247",
+    "day": 247,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3952,7 +3952,7 @@
     "alsoRead": ""
   },
   {
-    "day": "248",
+    "day": 248,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3968,7 +3968,7 @@
     "alsoRead": ""
   },
   {
-    "day": "249",
+    "day": 249,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -3984,7 +3984,7 @@
     "alsoRead": ""
   },
   {
-    "day": "250",
+    "day": 250,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4000,7 +4000,7 @@
     "alsoRead": ""
   },
   {
-    "day": "251",
+    "day": 251,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4016,7 +4016,7 @@
     "alsoRead": ""
   },
   {
-    "day": "252",
+    "day": 252,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4032,7 +4032,7 @@
     "alsoRead": ""
   },
   {
-    "day": "253",
+    "day": 253,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4048,7 +4048,7 @@
     "alsoRead": ""
   },
   {
-    "day": "254",
+    "day": 254,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4064,7 +4064,7 @@
     "alsoRead": ""
   },
   {
-    "day": "255",
+    "day": 255,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4080,7 +4080,7 @@
     "alsoRead": ""
   },
   {
-    "day": "256",
+    "day": 256,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4096,7 +4096,7 @@
     "alsoRead": ""
   },
   {
-    "day": "257",
+    "day": 257,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4112,7 +4112,7 @@
     "alsoRead": ""
   },
   {
-    "day": "258",
+    "day": 258,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4128,7 +4128,7 @@
     "alsoRead": ""
   },
   {
-    "day": "259",
+    "day": 259,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4144,7 +4144,7 @@
     "alsoRead": ""
   },
   {
-    "day": "260",
+    "day": 260,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4160,7 +4160,7 @@
     "alsoRead": ""
   },
   {
-    "day": "261",
+    "day": 261,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4176,7 +4176,7 @@
     "alsoRead": ""
   },
   {
-    "day": "262",
+    "day": 262,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4192,7 +4192,7 @@
     "alsoRead": ""
   },
   {
-    "day": "263",
+    "day": 263,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4208,7 +4208,7 @@
     "alsoRead": ""
   },
   {
-    "day": "264",
+    "day": 264,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4224,7 +4224,7 @@
     "alsoRead": ""
   },
   {
-    "day": "265",
+    "day": 265,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4240,7 +4240,7 @@
     "alsoRead": ""
   },
   {
-    "day": "266",
+    "day": 266,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4256,7 +4256,7 @@
     "alsoRead": ""
   },
   {
-    "day": "267",
+    "day": 267,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4272,7 +4272,7 @@
     "alsoRead": ""
   },
   {
-    "day": "268",
+    "day": 268,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4288,7 +4288,7 @@
     "alsoRead": ""
   },
   {
-    "day": "269",
+    "day": 269,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4304,7 +4304,7 @@
     "alsoRead": ""
   },
   {
-    "day": "270",
+    "day": 270,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4320,7 +4320,7 @@
     "alsoRead": "10 Commandments"
   },
   {
-    "day": "271",
+    "day": 271,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4336,7 +4336,7 @@
     "alsoRead": ""
   },
   {
-    "day": "272",
+    "day": 272,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4352,7 +4352,7 @@
     "alsoRead": ""
   },
   {
-    "day": "273",
+    "day": 273,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4368,7 +4368,7 @@
     "alsoRead": ""
   },
   {
-    "day": "274",
+    "day": 274,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4384,7 +4384,7 @@
     "alsoRead": ""
   },
   {
-    "day": "275",
+    "day": 275,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4400,7 +4400,7 @@
     "alsoRead": ""
   },
   {
-    "day": "276",
+    "day": 276,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4416,7 +4416,7 @@
     "alsoRead": ""
   },
   {
-    "day": "277",
+    "day": 277,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4432,7 +4432,7 @@
     "alsoRead": ""
   },
   {
-    "day": "278",
+    "day": 278,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4448,7 +4448,7 @@
     "alsoRead": ""
   },
   {
-    "day": "279",
+    "day": 279,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4464,7 +4464,7 @@
     "alsoRead": ""
   },
   {
-    "day": "280",
+    "day": 280,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4480,7 +4480,7 @@
     "alsoRead": ""
   },
   {
-    "day": "281",
+    "day": 281,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4496,7 +4496,7 @@
     "alsoRead": ""
   },
   {
-    "day": "282",
+    "day": 282,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4512,7 +4512,7 @@
     "alsoRead": ""
   },
   {
-    "day": "283",
+    "day": 283,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4528,7 +4528,7 @@
     "alsoRead": ""
   },
   {
-    "day": "284",
+    "day": 284,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4544,7 +4544,7 @@
     "alsoRead": ""
   },
   {
-    "day": "285",
+    "day": 285,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4560,7 +4560,7 @@
     "alsoRead": ""
   },
   {
-    "day": "286",
+    "day": 286,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4576,7 +4576,7 @@
     "alsoRead": ""
   },
   {
-    "day": "287",
+    "day": 287,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4592,7 +4592,7 @@
     "alsoRead": ""
   },
   {
-    "day": "288",
+    "day": 288,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4608,7 +4608,7 @@
     "alsoRead": ""
   },
   {
-    "day": "289",
+    "day": 289,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4624,7 +4624,7 @@
     "alsoRead": ""
   },
   {
-    "day": "290",
+    "day": 290,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4640,7 +4640,7 @@
     "alsoRead": ""
   },
   {
-    "day": "291",
+    "day": 291,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4656,7 +4656,7 @@
     "alsoRead": ""
   },
   {
-    "day": "292",
+    "day": 292,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4672,7 +4672,7 @@
     "alsoRead": ""
   },
   {
-    "day": "293",
+    "day": 293,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4688,7 +4688,7 @@
     "alsoRead": ""
   },
   {
-    "day": "294",
+    "day": 294,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4704,7 +4704,7 @@
     "alsoRead": ""
   },
   {
-    "day": "295",
+    "day": 295,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4720,7 +4720,7 @@
     "alsoRead": ""
   },
   {
-    "day": "296",
+    "day": 296,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4736,7 +4736,7 @@
     "alsoRead": ""
   },
   {
-    "day": "297",
+    "day": 297,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4752,7 +4752,7 @@
     "alsoRead": ""
   },
   {
-    "day": "298",
+    "day": 298,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4768,7 +4768,7 @@
     "alsoRead": ""
   },
   {
-    "day": "299",
+    "day": 299,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4784,7 +4784,7 @@
     "alsoRead": ""
   },
   {
-    "day": "300",
+    "day": 300,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4800,7 +4800,7 @@
     "alsoRead": ""
   },
   {
-    "day": "301",
+    "day": 301,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4816,7 +4816,7 @@
     "alsoRead": ""
   },
   {
-    "day": "302",
+    "day": 302,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4832,7 +4832,7 @@
     "alsoRead": ""
   },
   {
-    "day": "303",
+    "day": 303,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4848,7 +4848,7 @@
     "alsoRead": ""
   },
   {
-    "day": "304",
+    "day": 304,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4864,7 +4864,7 @@
     "alsoRead": ""
   },
   {
-    "day": "305",
+    "day": 305,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4880,7 +4880,7 @@
     "alsoRead": ""
   },
   {
-    "day": "306",
+    "day": 306,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4896,7 +4896,7 @@
     "alsoRead": ""
   },
   {
-    "day": "307",
+    "day": 307,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4912,7 +4912,7 @@
     "alsoRead": ""
   },
   {
-    "day": "308",
+    "day": 308,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4928,7 +4928,7 @@
     "alsoRead": ""
   },
   {
-    "day": "309",
+    "day": 309,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4944,7 +4944,7 @@
     "alsoRead": ""
   },
   {
-    "day": "310",
+    "day": 310,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4960,7 +4960,7 @@
     "alsoRead": ""
   },
   {
-    "day": "311",
+    "day": 311,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4976,7 +4976,7 @@
     "alsoRead": ""
   },
   {
-    "day": "312",
+    "day": 312,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -4992,7 +4992,7 @@
     "alsoRead": ""
   },
   {
-    "day": "313",
+    "day": 313,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5008,7 +5008,7 @@
     "alsoRead": ""
   },
   {
-    "day": "314",
+    "day": 314,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5024,7 +5024,7 @@
     "alsoRead": ""
   },
   {
-    "day": "315",
+    "day": 315,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5040,7 +5040,7 @@
     "alsoRead": ""
   },
   {
-    "day": "316",
+    "day": 316,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5056,7 +5056,7 @@
     "alsoRead": ""
   },
   {
-    "day": "317",
+    "day": 317,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5072,7 +5072,7 @@
     "alsoRead": ""
   },
   {
-    "day": "318",
+    "day": 318,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5088,7 +5088,7 @@
     "alsoRead": ""
   },
   {
-    "day": "319",
+    "day": 319,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5104,7 +5104,7 @@
     "alsoRead": ""
   },
   {
-    "day": "320",
+    "day": 320,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5120,7 +5120,7 @@
     "alsoRead": ""
   },
   {
-    "day": "321",
+    "day": 321,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5136,7 +5136,7 @@
     "alsoRead": ""
   },
   {
-    "day": "322",
+    "day": 322,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5152,7 +5152,7 @@
     "alsoRead": ""
   },
   {
-    "day": "323",
+    "day": 323,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5168,7 +5168,7 @@
     "alsoRead": ""
   },
   {
-    "day": "324",
+    "day": 324,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5184,7 +5184,7 @@
     "alsoRead": ""
   },
   {
-    "day": "325",
+    "day": 325,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5200,7 +5200,7 @@
     "alsoRead": ""
   },
   {
-    "day": "326",
+    "day": 326,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5216,7 +5216,7 @@
     "alsoRead": ""
   },
   {
-    "day": "327",
+    "day": 327,
     "partName": "How We Live",
     "partColor": "Green",
     "partNumber": 3,
@@ -5232,7 +5232,7 @@
     "alsoRead": ""
   },
   {
-    "day": "328",
+    "day": 328,
     "partName": "Introduction to Part 4",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5248,7 +5248,7 @@
     "alsoRead": ""
   },
   {
-    "day": "329",
+    "day": 329,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5264,7 +5264,7 @@
     "alsoRead": ""
   },
   {
-    "day": "330",
+    "day": 330,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5280,7 +5280,7 @@
     "alsoRead": ""
   },
   {
-    "day": "331",
+    "day": 331,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5296,7 +5296,7 @@
     "alsoRead": ""
   },
   {
-    "day": "332",
+    "day": 332,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5312,7 +5312,7 @@
     "alsoRead": ""
   },
   {
-    "day": "333",
+    "day": 333,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5328,7 +5328,7 @@
     "alsoRead": ""
   },
   {
-    "day": "334",
+    "day": 334,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5344,7 +5344,7 @@
     "alsoRead": ""
   },
   {
-    "day": "335",
+    "day": 335,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5360,7 +5360,7 @@
     "alsoRead": ""
   },
   {
-    "day": "336",
+    "day": 336,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5376,7 +5376,7 @@
     "alsoRead": ""
   },
   {
-    "day": "337",
+    "day": 337,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5392,7 +5392,7 @@
     "alsoRead": ""
   },
   {
-    "day": "338",
+    "day": 338,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5408,7 +5408,7 @@
     "alsoRead": ""
   },
   {
-    "day": "339",
+    "day": 339,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5424,7 +5424,7 @@
     "alsoRead": ""
   },
   {
-    "day": "340",
+    "day": 340,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5440,7 +5440,7 @@
     "alsoRead": ""
   },
   {
-    "day": "341",
+    "day": 341,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5456,7 +5456,7 @@
     "alsoRead": ""
   },
   {
-    "day": "342",
+    "day": 342,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5472,7 +5472,7 @@
     "alsoRead": ""
   },
   {
-    "day": "343",
+    "day": 343,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5488,7 +5488,7 @@
     "alsoRead": ""
   },
   {
-    "day": "344",
+    "day": 344,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5504,7 +5504,7 @@
     "alsoRead": ""
   },
   {
-    "day": "345",
+    "day": 345,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5520,7 +5520,7 @@
     "alsoRead": ""
   },
   {
-    "day": "346",
+    "day": 346,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5536,7 +5536,7 @@
     "alsoRead": ""
   },
   {
-    "day": "347",
+    "day": 347,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5552,7 +5552,7 @@
     "alsoRead": ""
   },
   {
-    "day": "348",
+    "day": 348,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5568,7 +5568,7 @@
     "alsoRead": ""
   },
   {
-    "day": "349",
+    "day": 349,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5584,7 +5584,7 @@
     "alsoRead": ""
   },
   {
-    "day": "350",
+    "day": 350,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5600,7 +5600,7 @@
     "alsoRead": ""
   },
   {
-    "day": "351",
+    "day": 351,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5616,7 +5616,7 @@
     "alsoRead": ""
   },
   {
-    "day": "352",
+    "day": 352,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5632,7 +5632,7 @@
     "alsoRead": ""
   },
   {
-    "day": "353",
+    "day": 353,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5648,7 +5648,7 @@
     "alsoRead": ""
   },
   {
-    "day": "354",
+    "day": 354,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5664,7 +5664,7 @@
     "alsoRead": ""
   },
   {
-    "day": "355",
+    "day": 355,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5680,7 +5680,7 @@
     "alsoRead": ""
   },
   {
-    "day": "356",
+    "day": 356,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5696,7 +5696,7 @@
     "alsoRead": ""
   },
   {
-    "day": "357",
+    "day": 357,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5712,7 +5712,7 @@
     "alsoRead": ""
   },
   {
-    "day": "358",
+    "day": 358,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5728,7 +5728,7 @@
     "alsoRead": ""
   },
   {
-    "day": "359",
+    "day": 359,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5744,7 +5744,7 @@
     "alsoRead": ""
   },
   {
-    "day": "360",
+    "day": 360,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5760,7 +5760,7 @@
     "alsoRead": ""
   },
   {
-    "day": "361",
+    "day": 361,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5776,7 +5776,7 @@
     "alsoRead": ""
   },
   {
-    "day": "362",
+    "day": 362,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5792,7 +5792,7 @@
     "alsoRead": ""
   },
   {
-    "day": "363",
+    "day": 363,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5808,7 +5808,7 @@
     "alsoRead": ""
   },
   {
-    "day": "364",
+    "day": 364,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
@@ -5824,7 +5824,7 @@
     "alsoRead": ""
   },
   {
-    "day": "365",
+    "day": 365,
     "partName": "How We Pray",
     "partColor": "Purple",
     "partNumber": 4,
