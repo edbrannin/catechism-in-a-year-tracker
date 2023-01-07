@@ -1,5 +1,5 @@
 import { ReadingPlan } from "./ReadingPlan";
-import { DayProgress, ProgressState, SetDayProrgessFunc } from "./use-progress-state";
+import { ProgressState, SetDayProrgessFunc } from "./use-progress-state";
 
 const ProgressCheckbox = ({
   day, value, name, setDayProgress
