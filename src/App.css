@@ -17,6 +17,15 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.link-button {
+  display: inline-block;
+  margin: 1em;
+  padding: 1em;
+  background-color: #050;
+  color: white;
+  border-radius: 1em;
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
