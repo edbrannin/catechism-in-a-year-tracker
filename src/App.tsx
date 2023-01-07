@@ -12,9 +12,9 @@ function App() {
   return (
     <div className="App">
       <h1>Catehism in a Year Tracker</h1>
-      <p>
+      <div>
         <a href="https://ascensionpress.com/ciy" className="link-button">Find the podcast and other resources here!</a>
-      </p>
+      </div>
       <ReadingPlanList
         progress={progress}
         readingPlanDays={readingPlan}

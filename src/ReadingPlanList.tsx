@@ -3,18 +3,21 @@ import { DayProgress, ProgressState, SetDayProrgessFunc } from "./use-progress-s
 
 const ProgressCheckbox = ({
   day, value, name, setDayProgress
-} : {
+}: {
   day: number,
   value: boolean,
   name: string,
   setDayProgress: SetDayProrgessFunc,
 }) => (
-  <input
+  <label
     className="progress-checkbox"
-    type="checkbox"
-    checked={value}
-    onChange={() => setDayProgress(day, { [name]: !value } )}
-  />
+  >
+    <input
+      type="checkbox"
+      checked={value}
+      onChange={() => setDayProgress(day, { [name]: !value })}
+    />
+  </label>
 )
 
 const ReadingPlanList = ({
@@ -26,7 +29,7 @@ const ReadingPlanList = ({
   setDayProgress: SetDayProrgessFunc,
   progress: ProgressState,
 }) => (
-  <table>
+  <table className="reading-plan-list">
     <thead>
       <tr>
         <th>Part</th>
