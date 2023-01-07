@@ -1,34 +1,24 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import './App.css'
+import untypedReadingPlan from './catechism-reading-plan.json';
+import { ReadingPlan } from './ReadingPlan';
+import ReadingPlanList from './ReadingPlanList';
+import useProgressState from './use-progress-state';
+
+const readingPlan: ReadingPlan = untypedReadingPlan;
 
 function App() {
-  const [count, setCount] = useState(0)
+  const { dispatch, progress, setDayProgress } = useProgressState();
 
   return (
     <div className="App">
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src="/vite.svg" className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://reactjs.org" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <h1>Catehism in a Year Tracker</h1>
+      <ReadingPlanList
+        progress={progress}
+        readingPlanDays={readingPlan}
+        setDayProgress={setDayProgress}
+      />
     </div>
-  )
+  );
 }
 
 export default App
