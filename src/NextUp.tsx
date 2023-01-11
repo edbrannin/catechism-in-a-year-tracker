@@ -119,8 +119,6 @@ const NextUpDetail = ({
           </tr>
         </tbody>
       </table>
-      <ul>
-      </ul>
     </div>
   );
 };

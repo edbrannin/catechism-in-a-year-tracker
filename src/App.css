@@ -50,6 +50,14 @@ table.reading-plan-list tbody tr:nth-child(odd) {
   color: #888;
 }
 
+.next-up {
+  padding: 2em;
+  border: 2px solid black;
+  border-radius: 2em;
+  backdrop-filter: brightness(0.5);
+  width: fit-content;
+}
+
 .next-up, .next-up table {
   margin-left: auto;
   margin-right: auto;
