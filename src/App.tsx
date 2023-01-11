@@ -1,5 +1,6 @@
 import './App.css'
 import untypedReadingPlan from './catechism-reading-plan.json';
+import GithubCorner from './GithubCorner';
 import NextUp from './NextUp';
 import { ReadingPlan } from './ReadingPlan';
 import ReadingPlanList from './ReadingPlanList';
@@ -26,6 +27,7 @@ function App() {
         readingPlanDays={readingPlan}
         setDayProgress={setDayProgress}
       />
+      <GithubCorner href="https://github.com/edbrannin/catechism-in-a-year-tracker"/>
     </div>
   );
 }
