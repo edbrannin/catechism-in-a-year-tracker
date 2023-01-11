@@ -8,7 +8,7 @@ import useProgressState from './use-progress-state';
 const readingPlan: ReadingPlan = untypedReadingPlan;
 
 function App() {
-  const { dispatch, progress, setDayProgress } = useProgressState();
+  const { dispatch, progress, setDayProgress, stateError } = useProgressState();
 
   return (
     <div className="App">

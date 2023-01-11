@@ -1,4 +1,5 @@
 import { useReducer } from 'react'
+import { useStorageReducer } from 'react-storage-hooks';
 
 export type DayProgress = {
   readCatechism: boolean,
@@ -37,7 +38,6 @@ export type PartialDayProgress = {
   [Property in keyof DayProgress]?: DayProgress[Property];
 }
 
-
 export const makeProgress = ({ readCatechism, readOther, heardPodcast } : PartialDayProgress): DayProgress => ({
   readCatechism: readCatechism || false,
   readOther: readOther || false,
@@ -47,7 +47,7 @@ export const makeProgress = ({ readCatechism, readOther, heardPodcast } : Partia
 export type SetDayProrgessFunc = (day: number, progress: PartialDayProgress) => void;
 
 const useProgressState = () => {
-  const [state, dispatch] = useReducer(progressReducer, undefined, initState);
+  const [state, dispatch, stateError] = useStorageReducer(localStorage, 'catechism-in-a-year-progress', progressReducer, undefined, initState)
   
   const setDayProgress : SetDayProrgessFunc = (day: number, progress: PartialDayProgress) => dispatch({
     day,
@@ -61,6 +61,7 @@ const useProgressState = () => {
     progress: state,
     dispatch,
     setDayProgress,
+    stateError,
   };
 };
 
