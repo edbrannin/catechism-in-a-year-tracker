@@ -5,6 +5,10 @@
   text-align: center;
 }
 
+table.reading-plan-list tr td {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
 
 .progress-checkbox {
   display: block;
@@ -19,10 +23,23 @@
   border-radius: 1em;
 }
 
+table.reading-plan-list {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 table.reading-plan-list thead th {
   position: sticky;
   top: 0; /* Don't forget this, required for the stickiness */
   background-color: #242424;
+  backdrop-filter: brightness(1);
+  z-index: 1;
+  padding: 1em;
+}
+
+table.reading-plan-list tbody tr:nth-child(odd) {
+  backdrop-filter: brightness(0.5);
 }
 
 .card {
@@ -31,4 +48,9 @@ table.reading-plan-list thead th {
 
 .read-the-docs {
   color: #888;
+}
+
+.next-up, .next-up table {
+  margin-left: auto;
+  margin-right: auto;
 }

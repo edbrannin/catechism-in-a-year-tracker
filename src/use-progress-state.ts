@@ -7,11 +7,11 @@ export type DayProgress = {
 }
 
 export type ProgressState = {
-  days: Record<number, DayProgress>,
+  days: Record<number, DayProgress>;
 }
 
 export const initState = (): ProgressState => ({
-  days: {}
+  days: {},
 });
 
 export const progressReducer = (
@@ -29,7 +29,7 @@ export const progressReducer = (
     days: {
       ...state.days,
       [day]: progress,
-    }
+    },
   };
 }
 
