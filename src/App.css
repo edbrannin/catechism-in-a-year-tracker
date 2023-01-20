@@ -1,7 +1,7 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+  /* padding: 2rem; */
   text-align: center;
 }
 
@@ -56,6 +56,11 @@ table.reading-plan-list tbody tr:nth-child(odd) {
   border-radius: 2em;
   backdrop-filter: brightness(0.5);
   width: fit-content;
+}
+
+.next-up input[type='checkbox'] {
+  width: 2em;
+  height: 2em;
 }
 
 .next-up, .next-up table {

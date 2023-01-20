@@ -1,4 +1,3 @@
-import { useReducer } from 'react'
 import { useStorageReducer } from 'react-storage-hooks';
 
 export type DayProgress = {
